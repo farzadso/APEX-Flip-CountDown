@@ -1,10 +1,10 @@
 # APEX Flip CountDown Item Plugin
 This jQuery based item plugin can act as a clock, countdown timer or counter.
 
-##Demo
+## Demo
 [APEX Flip CountDown Item Plugin - Click Here](https://apex.oracle.com/pls/apex/f?p=9468:8)
 
-##Installation
+## Installation
 Just import the 
 ```html
 item_type_plugin_com_farzad_apex_flip_count.sql
